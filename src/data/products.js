@@ -1,50 +1,112 @@
 export const products = [
-  {
+{
     id: 1,
-    name: "Minimalist Leather Watch",
-    price: 149.00,
-    category: "Accessories",
-    image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&q=80&w=1000",
-    description: "Elegant timepiece with genuine leather strap."
+    name: " Premium Air less bottle",
+    category: "Cosmetic",
+    image: "/Image_01.jpg",
+    description: "30ml and 50ml Premium Air less bottle with cream pump ."
   },
   {
     id: 2,
-    name: "Premium Wireless Headphones",
-    price: 299.00,
-    category: "Electronics",
-    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000",
-    description: "Noise-cancelling over-ear headphones with high-fidelity sound."
+    name: "PP Air less bottle",
+ 
+    category: "Cosmetic",
+    image: "/Image_02.jpg",
+    description: "15ml , 30ml and 50ml Premium PP Air less bottle with cream pump ."
   },
   {
     id: 3,
-    name: "Signature Suede Jacket",
-    price: 450.00,
-    category: "Apparel",
-    image: "https://images.unsplash.com/photo-1551028919-ac66e6246958?auto=format&fit=crop&q=80&w=1000",
-    description: "Handcrafted suede jacket for a timeless look."
+    name: " Premium Air less ",
+ 
+    category: " Cosmetic",
+   image: "/Image_03.jpg",
+    description: "60ml , 80ml and 100ml Premium Air less bottle with cream pump ."
   },
   {
     id: 4,
-    name: "Modern Ceramic Vase",
-    price: 89.00,
-    category: "Home",
-    image: "https://images.unsplash.com/photo-1581783342308-f792ca93d462?auto=format&fit=crop&q=80&w=1000",
-    description: "Minimalist ceramic vase, perfect for any interior."
+    name: "  Premium Air less bottle",
+ 
+    category: "Cosmetic",
+    image: "/Image_04.jpg",
+    description: "15ml , 20ml and 30ml Premium Air less bottle with cream pump."
   },
   {
     id: 5,
-    name: "Classic Aviator Sunglasses",
-    price: 120.00,
-    category: "Accessories",
-    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=1000",
-    description: "Gold-rimmed aviator sunglasses with UV protection."
+    name: " Foaming Pump",
+ 
+    category: "Cosmetic",
+    image: "/Image_05.jpg",
+    description: " 42/410 Foaming Pump."
   },
   {
     id: 6,
-    name: "Leather Weekend Bag",
-    price: 350.00,
-    category: "Travel",
-    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=1000",
-    description: "Durable and stylish leather bag for short getaways."
-  }
-];
+    name: " Plum Face Mist ",
+ 
+    category: " Cosmetic",
+    image: "/Image_06.jpg",
+    description: " 24/410 Plum Face Mist ."
+  },
+  {
+    id: 7,
+    name: " Mini Trigger Pump",
+ 
+    category: "Cosmetic",
+    image: "/Image_07.jpg",
+    description: " 24mm Mini trigger Pump with On/Off button ."
+  },
+  {
+    id: 8,
+    name: " Credit Card Shape Perfume Bottle",
+    category: "Cosmetic",
+    image: "/Image_08.png",
+    description: " 10ml  Credit Card Shape Perfume Bottle."
+  },
+  {
+    id: 9,
+    name: " Mist Sprayer Pump",
+ 
+    category: " Cosmetic",
+   image: "/Image_09.jpg",
+    description: " 20mm, 24mm and 28mm Mist sprayer Pump."
+  },
+  {
+    id: 10,
+    name: "  Premium Air less Olay Dispenser",
+ 
+    category: "Cosmetic",
+    image: "/Image_10.jpg",
+    description: "50ml Premium Air less Dispenser ."
+  },
+  {
+    id: 11,
+    name: " Hanging Car Perfume Bottle",
+    category: "Cosmetic",
+    image: "/Image_11.jpg",
+    description: " Heart shape Hanging Car Perfume Bottle."
+  },
+  {
+    id: 12,
+    name: "Beek Pump  ",                        
+    category: " Cosmetic",
+    image: "/Image_12.jpg",
+    description: " 24mm Beek pump  ."
+  },
+{
+    id: 13,
+    name: " Lotion Pump",
+ 
+    category: "Cosmetic",
+    image: "/Image_13.jpg",
+    description: " 24/410 Lotion Pump with On/Off ."
+  },
+  {
+    id: 14,
+    name: " Cream Pump ",
+    category: "Cosmetic",
+    image: "/Image_14.jpg",
+    description: " 20mm Cream Pump."
+  },
+  
+   
+
+]
