@@ -106,7 +106,5 @@ export const products = [
     image: "/Image_14.jpg",
     description: " 20mm Cream Pump."
   },
-  
    
-
 ]

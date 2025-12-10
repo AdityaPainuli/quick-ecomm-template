@@ -8,15 +8,14 @@ const Home = () => {
         <div className="home">
             <section className="hero">
                 <div className="hero-content container">
-                    <h1 className="hero-title">Elevate Your Lifestyle</h1>
+                    <h1 className="hero-title">Iconic International</h1>
                     <p className="hero-subtitle">Discover our curated collection of premium essentials.</p>
                 </div>
             </section>
 
             <section id="products" className="section-padding container">
                 <div className="section-header">
-                    <h2>Featured Collection</h2>
-                    <p>Handpicked for the discerning taste.</p>
+                    <h2>Preimum Products</h2>
                 </div>
                 <ProductGrid products={products} />
             </section>
@@ -25,7 +24,7 @@ const Home = () => {
                 <div className="container">
                     <div className="about-content">
                         <h2>Our Philosophy</h2>
-                        <p>We believe in quality over quantity. Every item in our catalog is selected for its craftsmanship, durability, and timeless design.</p>
+                        <p>We believe in quality over quantity.</p>
                     </div>
                 </div>
             </section>
